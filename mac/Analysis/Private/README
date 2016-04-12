@@ -1,2 +1,0 @@
-This folder is for "private" analysis scripts that are not added to the git repository.
-If you place your personal analysis "*.cc" scripts in this folder, then the Makefile in .. will find them.
